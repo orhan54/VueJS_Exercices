@@ -59,3 +59,18 @@ const precedent = () => {
     }
 }
 </script>
+
+
+<style>
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+    margin-top: 3rem;
+}
+
+
+</style>
+
+
